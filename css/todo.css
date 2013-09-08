@@ -1,0 +1,12 @@
+.done-true {
+  text-decoration: line-through;
+  color: grey;
+}
+div {
+  margin: 0 auto;
+  width: 400px;	
+  height: 500px;
+}
+div h2 {
+	font-size: 40px;
+}
